@@ -1,0 +1,47 @@
+*
+{
+    margin: 0;
+    
+ }
+
+ body{
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    background: url(header.jpg) no-repeat  center center fixed;
+    background-size: cover ;
+  
+    
+ }
+h1
+{
+   font-size: 3rem;
+   color: #e2dbdd ;
+}
+ 
+.btn 
+{
+   font-weight:700 ;
+   border-radius: 12px;
+ 
+}
+.btn-primary
+{
+   background-color:  #f64a2c;
+   border-color: #f54b2e;
+}
+.btn-primary:hover{
+   background-color:  #ee4b08;
+   border-color: #ee4b08;
+   border-width: 4px;
+}
+ 
+.btn-xl
+_{
+   padding: 1rem 2rem;
+   
+}
+.buffer
+{
+   height: 16rem;
+}
